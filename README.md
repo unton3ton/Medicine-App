@@ -1,5 +1,7 @@
 ## *Обработка фотографий конъюнктивы глаза*
 ---
+[app.exe](https://yadi.sk/d/1gIQa5CTAT6Vfg) for Windows 64-bit 7 or newer
+---
 ### Источники для вдохновения:
 * [PIL на Python от простого к сложному](https://habr.com/en/post/451074/)
 * [PIL:Handbook](https://readthedocs.org/projects/pillow/downloads/pdf/latest/)
